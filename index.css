@@ -9,7 +9,7 @@ html{
 
 body{
     font-size: 15px;
-    color: black;
+    color:                                                                                              black;
     background-color: #fff;
 }
 header{
@@ -20,7 +20,7 @@ header{
     align-items: center;
 }
 header img{
-width: 250px;
+width: 250px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 }
 .nav{
     font-size: 17px;
